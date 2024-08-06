@@ -1,6 +1,6 @@
-## Agro Web App
+## Farmer Government Aided Schemes
 
-Agro Web App is a web application designed to provide farmers and users with information about crops, government schemes, and to allow users to apply for various agricultural schemes. The app offers both user and admin functionalities, enabling users to view and apply for schemes while allowing admins to post new crop details and schemes.
+Farmer Government Aided Schemes is a web application designed to provide farmers and users with information about crops, government schemes, and to allow users to apply for various agricultural schemes. The app offers both user and admin functionalities, enabling users to view and apply for schemes while allowing admins to post new crop details and schemes.
 
 ## Table of Contents
 
