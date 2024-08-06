@@ -1,6 +1,6 @@
-## Farmer Government Aided Schemes
+## Agro Web App
 
-Farmer Government Aided Schemes is a web application designed to provide farmers and users with information about crops, government schemes, and to allow users to apply for various agricultural schemes. The app offers both user and admin functionalities, enabling users to view and apply for schemes while allowing admins to post new crop details and schemes.
+Agro Web App is a web application designed to provide farmers and users with information about crops, government schemes, and to allow users to apply for various agricultural schemes. The app offers both user and admin functionalities, enabling users to view and apply for schemes while allowing admins to post new crop details and schemes.
 
 ## Table of Contents
 
@@ -65,3 +65,54 @@ To run this project locally, follow these steps:
 2. Register a new user or login with existing credentials.
 3. If logged in as admin (check for a specific email in the script), the admin dashboard will be shown.
 4. Users can view crop details, view government schemes, apply for schemes, and check their application status.
+
+## File Structure
+agro-web-app/
+│
+├── index.html # Main HTML file
+├── styles.css # CSS file for styling
+├── script.js # JavaScript file for functionality
+└── README.md # Project documentation
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Firebase Authentication
+- Firebase Firestore
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MIT License
+
+Copyright (c) [2024] [Chakshu Gupta]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
